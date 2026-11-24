@@ -1,0 +1,2 @@
+# AntiSolaris
+AntiSolaris. Hile koruması.

@@ -1,0 +1,12 @@
+name: AntiSolaris
+version: 1.1.0
+main: com.solaris.antisolaris.AntiSolaris
+api-version: '1.21.11'
+description: Paper 1.21.11 gelismis hile koruma ve otomatik ban eklentisi
+permissions:
+  antisolaris.bypass:
+    description: Hile kontrollerinden muaf tutar
+    default: op
+  antisolaris.alert:
+    description: Supheli oyuncu uyarilarini goruntuler
+    default: op
